@@ -1,2 +1,3 @@
 # ESP32-PROJECTS
-repository of esp32 projects 
+Repository of esp32 projects 
+1- Runing Gemini AI on ESP32
